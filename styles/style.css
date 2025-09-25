@@ -270,6 +270,7 @@
   background-size: cover;
   background-position: center;
   overflow: hidden; 
+
 }
 
 /* Затемнение для каждой карточки */
@@ -290,7 +291,6 @@
   position: relative;
   z-index: 2;
   font-size: 22px;
-  font-weight: bold;
   text-transform: uppercase;
   font-family: 'Raleway', sans-serif;
   font-style: normal;
@@ -311,7 +311,6 @@
   font-family: 'Raleway', sans-serif;
   font-style: normal;
   font-weight: 400;
-  font-size: 20px;
   line-height: 120%;
   margin-bottom: -2px;
 }
@@ -395,6 +394,7 @@
   margin: 0;
   font-family: 'Raleway', sans-serif;
   word-wrap: break-word; 
+
 }
 
 .about__text {
@@ -439,6 +439,7 @@
   font-weight: 400;
   font-size: 18px;
   line-height: 24.3px; 
+
 } 
 
 .footer__link{
@@ -507,6 +508,7 @@
   list-style: none;
   width: 48px;
   height: 48px; 
+
 }
 
 .pixel-perfect-image {
