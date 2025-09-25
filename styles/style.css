@@ -187,7 +187,6 @@
   text-align: right;
 }
 
-
 .cover__description {
   margin-top: 489px;
   display: flex;
@@ -296,7 +295,6 @@
   font-family: 'Raleway', sans-serif;
   font-style: normal;
   font-weight: 700;
-  font-size: 22px;
   line-height: 120%;
   margin-top: -2px;
   text-decoration: underline;
@@ -315,7 +313,6 @@
   font-weight: 400;
   font-size: 20px;
   line-height: 120%;
-  margin-top: auto;
   margin-bottom: -2px;
 }
 
@@ -335,7 +332,6 @@
   position: absolute;
   bottom: -53px;
   left: 40px;
-  font-size: 20px;
   text-decoration: underline;
   text-underline-offset: 5px;
   color: #000;
